@@ -5,9 +5,9 @@
 - 2. git의 3공간은 working directory, staging area, repository 이다. 
   - 정답: 0
   - 분장실 > 무대위 > 사진찰칵!(기록)
-github 에 버전을 저장하기 위해 git commit 명령어를 쓴다.
+- 3. github 에 버전을 저장하기 위해 git commit 명령어를 쓴다.
   - 정답: X
-  - git이 버전을 관리해주는 프로그램 
+  - git이 버전을 관리해주는 프로그램
   - git으로 나의 로컬저장소에 변경사항 기록을 남긴다
 git log 를 통해 버전 기록들의 목록을 확인할 수 있다.
   - 정답:0
